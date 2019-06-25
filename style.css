@@ -1,0 +1,36 @@
+* {
+    background-color: slategrey;
+}
+
+p {
+    color: rgb(253, 254, 254)
+}
+
+img {
+    border-radius: 8px;
+
+}
+
+
+  h1 {
+      font-family: Impact;
+      text-align: center;
+      font-size: 34px;
+      text-transform: capitalize;
+      border-top-style: dotted;
+  }
+
+  div {
+      padding-left: 45px;
+      padding-right: 45px;
+  }
+
+  h2 {
+      text-align: center;
+  }
+ 
+  
+  
+  
+
+
